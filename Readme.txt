@@ -13,4 +13,4 @@ O controle das tarefas desse projeto será realizado no GitHub
  -:beetle: correção de bug
  -:checkered_flag: release
 
-* [Acesse o portfólio](https://paulodiastst.github.io/portifolio/)
+https://paulodiastst.github.io/portifolio-master/
