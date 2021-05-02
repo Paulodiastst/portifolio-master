@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-# Sections General
+# Sections General / Seções Gerais
 --------------------------------------------------------------*/
 section {
   overflow: hidden;
@@ -524,7 +524,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Testimonials
+# Depoimentos / Testemunhos
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
   box-sizing: content-box;
