@@ -16,6 +16,6 @@ O controle das tarefas desse projeto será realizado no GitHub
  -:checkered_flag: release
  
 ## Portfólio
-[Meu Portfólio](https://paulodiastst.github.io/portifolio-master/).
+[Meu Portfólio](https://paulodiastst.github.io/portifolio-master/)
 
 
